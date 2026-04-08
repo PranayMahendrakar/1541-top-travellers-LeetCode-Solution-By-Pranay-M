@@ -7,3 +7,4 @@
 - [2026-04-08T14:02:33Z] refactor: clean up unused imports
 - [2026-04-08T20:11:52Z] test: add unit tests for core module
 - [2026-04-08T18:05:33Z] style: apply consistent code formatting
+- [2026-04-08T13:15:19Z] docs: improve inline documentation
